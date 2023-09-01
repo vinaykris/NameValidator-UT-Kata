@@ -4,3 +4,8 @@
 *It helps in identifing the common mistakes done in writing unit test cases. <br>
 *What can be tested in Unit testing. <br>
 *Best Practices of Unit Testing. <br>
+
+## Identify: <br>
+* All the flaws in written Unit test cases
+* Apply FIRST and AAA principles
+* Refactor and make it better
